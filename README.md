@@ -66,11 +66,12 @@ Each program is a separate project — run them in this order:
 
 ## Screenshots
 
-*(add screenshots here)*
 
 **Server console — receiving an alarm and dispatch prompt**
 ![Server console](<img width="1516" height="928" alt="image" src="https://github.com/user-attachments/assets/abfaf53a-5479-4d56-85f2-78937de4a41a" />
 )
+
+
 
 **Home GUI — armed keypad**
 ![Home GUI](<img width="1477" height="863" alt="image" src="https://github.com/user-attachments/assets/09d985f4-2781-487d-b7f6-a26001fe3370" />
@@ -80,6 +81,8 @@ Each program is a separate project — run them in this order:
 <img width="1482" height="833" alt="image" src="https://github.com/user-attachments/assets/1480d48e-bc6d-42d2-afd6-9a61bb968ddb" />
 )
 
+
+
 **Guard GUI — response sequence (on my way → arrived → location save → send backup)**
 ![Guard GUI](<img width="1510" height="930" alt="image" src="https://github.com/user-attachments/assets/ca91ece4-fc64-4bf8-970b-670cdab63da8" />
 
@@ -88,7 +91,4 @@ Each program is a separate project — run them in this order:
 <img width="1511" height="932" alt="image" src="https://github.com/user-attachments/assets/8e6a66a1-f562-4d9c-b245-b0c4ecf87b0f" />
 )
 
-## Notes
 
-This was built as a university assignment covering socket programming,
-multithreaded servers, and GUI event handling in Java.
